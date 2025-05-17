@@ -1,0 +1,12 @@
+JSON -- Javascript object notation 
+
+key : value 
+
+
+
+var student = {
+    name:"niti",
+    age:19,
+    isActive:true,
+    email:"niti@gmail.com"
+}

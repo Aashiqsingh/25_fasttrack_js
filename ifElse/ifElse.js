@@ -41,17 +41,43 @@ var c = 18;
 // }
 
 
-if(a > b && a > c)
+// if(a > b && a > c)
+// {
+//     console.log("A is gretter");
+    
+// }
+// else if(b > a && b > c)
+// {
+//     console.log("b is gretter");
+    
+// }
+// else{
+//     console.log("C is gretter");
+    
+// }
+
+let a = parseInt(prompt("Enter first number"));
+let b = parseInt(prompt("Enter second number"));
+let c = parseInt(prompt("Enter third number"));
+
+var sum = 0;
+
+if(a > 35)
 {
-    console.log("A is gretter");
-    
+    sum += a;
 }
-else if(b > a && b > c)
+if(b > 35)
 {
-    console.log("b is gretter");
-    
+    sum += b;
 }
-else{
-    console.log("C is gretter");
-    
+if(c > 35){
+    sum += c;
 }
+
+console.log(sum);
+
+
+
+// let -- block scope
+// var -- global scope
+// const -- block scope 

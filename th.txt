@@ -3,7 +3,7 @@ ex : c , cpp , java
 main()
 
 
-Javascript : scriptting language : is a sub of programming language 
+Javascript : scriptting language : is a subset of programming language 
 ex : html , Javascript , python
 ---single line -- code 
 
