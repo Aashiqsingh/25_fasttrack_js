@@ -1,0 +1,7 @@
+javascript --> sigle threaded application
+
+callback
+
+
+
+java --> multi threaded application
