@@ -1,7 +1,0 @@
-Area of circle
-Area of square
-Area of rectangle
-
-check pallindrom 
-
-reverse string
