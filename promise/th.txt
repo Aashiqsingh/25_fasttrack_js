@@ -1,0 +1,27 @@
+promise --> pending--(fulfilled/ reject)
+
+
+promise --> javascript --> class
+
+
+javascript bydefault asynchronuous 
+
+
+There are two types to create sync.
+1. block sync 
+    - then catch
+2. function sync
+    - async await
+
+
+
+
+
+
+
+console.log("starting........")
+
+
+console.log("*************************************************");  - 3min
+
+console.log("Ending........")
