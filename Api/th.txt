@@ -1,0 +1,8 @@
+API --> Application programming Interface
+
+
+Get
+Post
+delete
+put
+patch
